@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/60d27739-ca86-4111-a836-b970190940f8" /># Scalable Web Application with ALB and Auto Scaling
+
 
 **AWS Solutions Architect – Associate | Graduation Project 1**
 
