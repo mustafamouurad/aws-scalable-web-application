@@ -1,6 +1,6 @@
 
 
-**AWS Solutions Architect – Associate | Graduation Project 1**
+**AWS Solutions Architect – Associate | Graduation Project **
 
 A production-grade, highly available web application deployed on AWS using EC2 instances inside a properly architected VPC, with public and private subnets spread across two Availability Zones.
 
