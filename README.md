@@ -169,6 +169,10 @@ The architecture consists of:
 
 <img width="1920" height="799" alt="1" src="https://github.com/user-attachments/assets/d380da70-e3e6-4b5d-941c-8633d3c9828b" />
 
+<img width="1920" height="949" alt="7" src="https://github.com/user-attachments/assets/28180f60-ada4-4634-af44-7e4a75c86998" />
+
+<img width="1920" height="906" alt="6" src="https://github.com/user-attachments/assets/2d8d4353-a86f-413b-9d8b-2f602e52563b" />
+
 
 
 ### 6. Content Delivery (CloudFront)
