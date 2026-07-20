@@ -113,52 +113,61 @@ The architecture consists of:
 ## Implementation Screenshots
 
 ### 1. Networking (VPC)
+
 <img width="1920" height="826" alt="Nat GW" src="https://github.com/user-attachments/assets/1fe41e57-48c8-473a-b011-714ba6df178b" />
+
 <img width="1920" height="809" alt="IGW" src="https://github.com/user-attachments/assets/c0fb0dff-8442-4557-8087-a9bde2bf933b" />
+
 <img width="1920" height="807" alt="RouteTables" src="https://github.com/user-attachments/assets/da57517f-b2b6-4d9e-bd52-c3cabef92f55" />
+
 <img width="1920" height="811" alt="subnets" src="https://github.com/user-attachments/assets/02be62ac-7cc0-4d70-bde9-f8e455937cdb" />
+
 <img width="1920" height="812" alt="vpc" src="https://github.com/user-attachments/assets/db2b50d4-3cb2-419d-ab6e-903fba4cc30d" />
 
 
 ### 2. Security
-<img width="1920" height="1080" alt="2" src="https://github.com/user-attachments/assets/39b5bba5-8af1-4671-a96c-7d382503d2c4" />
 
-<img width="1920" height="1080" alt="1" src="https://github.com/user-attachments/assets/e03107a2-bdb2-4a5f-b241-5b4cf7c6a52b" />
+<img width="1920" height="813" alt="2" src="https://github.com/user-attachments/assets/099c42d1-4bf5-4cad-a752-16571efe8a81" />
+
+<img width="1920" height="816" alt="1" src="https://github.com/user-attachments/assets/530e91ac-0400-457e-a4c4-977a79bef5e0" />
 
 
 
 ### 3. Database (RDS Multi-AZ)
-<img width="1920" height="1080" alt="623660237-cbd62e42-62ce-42d1-9eaf-46c2b1f450b5" src="https://github.com/user-attachments/assets/78f5ddc2-fc56-456c-82f4-0df282c86633" />
+
+<img width="1920" height="818" alt="623660237-cbd62e42-62ce-42d1-9eaf-46c2b1f450b5" src="https://github.com/user-attachments/assets/15f27150-e359-4d7c-b8d7-594f8e393907" />
 
 
 ### 4. Compute (EC2 + Auto Scaling)
-<img width="1920" height="1080" alt="7" src="https://github.com/user-attachments/assets/4a8dee76-d2f2-4420-8894-85f857234132" />
 
-<img width="1920" height="1080" alt="6" src="https://github.com/user-attachments/assets/cf9af760-9795-4e8d-b9e7-677539ef3982" />
+<img width="1920" height="821" alt="7" src="https://github.com/user-attachments/assets/10364422-f75d-4a07-9319-bfe00aea4c03" />
 
-<img width="1920" height="1080" alt="5" src="https://github.com/user-attachments/assets/1a5d4a9b-2d45-4a90-88af-6a794d1bb4ab" />
+<img width="1920" height="831" alt="6" src="https://github.com/user-attachments/assets/dcf4f222-71fa-4723-be25-c2c17912d7a5" />
 
-<img width="1920" height="1080" alt="4" src="https://github.com/user-attachments/assets/ed176267-9c2f-4185-bf8c-c5d2982f000e" />
+<img width="1920" height="816" alt="5" src="https://github.com/user-attachments/assets/4aa870f7-6db6-49b7-9f0d-334d6ef1deae" />
 
-<img width="1920" height="1080" alt="3" src="https://github.com/user-attachments/assets/9b01b365-17f2-48e8-96ad-006e469cc9f3" />
+<img width="1920" height="828" alt="4" src="https://github.com/user-attachments/assets/246da2d2-2156-45ff-83fb-eda499be9475" />
 
-<img width="1920" height="1080" alt="2" src="https://github.com/user-attachments/assets/fa78452f-9995-449f-b83a-2205c93f1982" />
+<img width="1920" height="831" alt="3" src="https://github.com/user-attachments/assets/9e889fb5-21fb-4fed-bf1c-c71415a796f9" />
 
-<img width="1920" height="1080" alt="1" src="https://github.com/user-attachments/assets/f3551b78-84d5-468e-9764-b73d355f30e6" />
+<img width="1920" height="827" alt="2" src="https://github.com/user-attachments/assets/d6cec6b7-ff59-4944-a92a-2955258d3ea7" />
+
+<img width="1920" height="817" alt="1" src="https://github.com/user-attachments/assets/35c79e3d-88d6-41a1-9466-9fb16ab2f712" />
 
 
 
 
 ### 5. Load Balancing (ALB + WAF)
-<img width="1920" height="1080" alt="5" src="https://github.com/user-attachments/assets/d65d141e-9ec8-4e82-8f80-5d4e4a8efe18" />
 
-<img width="1920" height="1080" alt="4" src="https://github.com/user-attachments/assets/824bbc9f-b313-4094-965e-ec4e9abeb824" />
+<img width="1920" height="825" alt="5" src="https://github.com/user-attachments/assets/25241e66-a4ac-4ac9-b4f8-734a0ad9e98e" />
 
-<img width="1920" height="1080" alt="3" src="https://github.com/user-attachments/assets/7b189c04-8a29-4fe6-9ecf-0260fb5508f2" />
+<img width="1920" height="822" alt="4" src="https://github.com/user-attachments/assets/aa6a9d7c-7b58-4085-a5d5-b66719570260" />
 
-<img width="1920" height="1080" alt="2" src="https://github.com/user-attachments/assets/d0391ee3-4603-422a-b256-96287ce39032" />
+<img width="1920" height="825" alt="3" src="https://github.com/user-attachments/assets/97d5d40e-e9f0-4e23-870d-3a5d2fb7986c" />
 
-<img width="1920" height="1080" alt="1" src="https://github.com/user-attachments/assets/f8707bd7-3324-4552-b8a1-904714af63e4" />
+<img width="1920" height="824" alt="2" src="https://github.com/user-attachments/assets/e501359d-bf7f-4d51-ba40-38911f964a8a" />
+
+<img width="1920" height="799" alt="1" src="https://github.com/user-attachments/assets/d380da70-e3e6-4b5d-941c-8633d3c9828b" />
 
 
 
@@ -174,24 +183,29 @@ The architecture consists of:
 
 
 ### 7. DNS (Route 53)
-<img width="1920" height="1080" alt="2" src="https://github.com/user-attachments/assets/a7361220-7b58-4e67-bf7a-1b9671abcfa2" />
 
-<img width="1920" height="1080" alt="1" src="https://github.com/user-attachments/assets/99f2a06a-2dd5-42d1-b32e-6b97f9925252" />
+<img width="1920" height="828" alt="2" src="https://github.com/user-attachments/assets/661476b9-8986-45ba-aaf6-c1d2e52bef84" />
+
+<img width="1920" height="804" alt="1" src="https://github.com/user-attachments/assets/25b72dcf-488d-4c5e-8da7-9dde6cfbea0e" />
+
 
 
 ### 8. Secure Access (Systems Manager)
-<img width="1920" height="1080" alt="3" src="https://github.com/user-attachments/assets/9eb67b3a-e05a-4add-8c24-92da720430f1" />
+<img width="1920" height="822" alt="3" src="https://github.com/user-attachments/assets/5bba3176-e6ca-432d-b49c-1a2f4db2d63f" />
 
-<img width="1920" height="1080" alt="2" src="https://github.com/user-attachments/assets/5838128d-919b-4560-9039-7100d0890de2" />
+<img width="1920" height="798" alt="2" src="https://github.com/user-attachments/assets/5482d7cd-8229-4f61-adaf-7ca3596ff4f2" />
 
-<img width="1920" height="1080" alt="1" src="https://github.com/user-attachments/assets/cef299fb-c2f9-4619-9b38-a7f52ba9d53e" />
+<img width="1920" height="1080" alt="1" src="https://github.com/user-attachments/assets/e2200c5d-c63f-463b-bd66-eb814a4f7ec1" />
+
 
 
 
 ### 9. Monitoring (CloudWatch + SNS)
-<img width="1920" height="1080" alt="2" src="https://github.com/user-attachments/assets/f8cad4ee-f396-4a40-8bea-511bca763343" />
 
-<img width="1920" height="1080" alt="1" src="https://github.com/user-attachments/assets/ae695536-f334-4556-bc29-74a825676bd3" />
+<img width="1920" height="776" alt="2" src="https://github.com/user-attachments/assets/6a82673a-f7eb-4890-881c-782687815439" />
+
+<img width="1920" height="785" alt="1" src="https://github.com/user-attachments/assets/ec8ea51c-fa9c-4497-b2b7-70e5172c3020" />
+
 
 
 
