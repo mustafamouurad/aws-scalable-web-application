@@ -219,6 +219,8 @@ The architecture consists of:
 **Live URL (via CloudFront):** `http://d1a2b3c4d5e6f7.cloudfront.net`
 **Direct ALB URL (bypassing CDN):** `http://web-app-alb-611387839.us-west-1.elb.amazonaws.com`
 
+> **Note:** Live URLs were active during development and testing (see screenshots above showing the CloudFront-served app with changing Instance IDs). All AWS resources were terminated after project completion to avoid ongoing charges — see [Cleanup](#cleanup) section.
+
 
 ## Cleanup
 
