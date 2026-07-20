@@ -111,11 +111,11 @@ The architecture consists of:
 ## Implementation Screenshots
 
 ### 1. Networking (VPC)
-<img width="1920" height="1080" alt="Screenshot (788)" src="https://github.com/user-attachments/assets/a7cb085e-9ac7-4607-ab4c-e794c00404c8" />
-<img width="1920" height="1080" alt="Screenshot (787)" src="https://github.com/user-attachments/assets/595403a4-ab33-4c46-9421-ed68e47b3ea4" />
-<img width="1920" height="1080" alt="Screenshot (786)" src="https://github.com/user-attachments/assets/e6c4e1fa-f54a-4265-946e-3f32fc5dc438" />
-<img width="1920" height="1080" alt="Screenshot (785)" src="https://github.com/user-attachments/assets/e47eee9d-d0c9-4e52-9bef-b4572c54eb24" />
-<img width="1920" height="1080" alt="Screenshot (784)" src="https://github.com/user-attachments/assets/8f14504b-f2ad-427c-9f94-eee5366a067d" />
+<img width="1920" height="826" alt="Nat GW" src="https://github.com/user-attachments/assets/1fe41e57-48c8-473a-b011-714ba6df178b" />
+<img width="1920" height="809" alt="IGW" src="https://github.com/user-attachments/assets/c0fb0dff-8442-4557-8087-a9bde2bf933b" />
+<img width="1920" height="807" alt="RouteTables" src="https://github.com/user-attachments/assets/da57517f-b2b6-4d9e-bd52-c3cabef92f55" />
+<img width="1920" height="811" alt="subnets" src="https://github.com/user-attachments/assets/02be62ac-7cc0-4d70-bde9-f8e455937cdb" />
+<img width="1920" height="812" alt="vpc" src="https://github.com/user-attachments/assets/db2b50d4-3cb2-419d-ab6e-903fba4cc30d" />
 
 
 ### 2. Security
